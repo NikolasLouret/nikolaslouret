@@ -23,9 +23,9 @@ Todas as tecnologias citadas eu aprendi na faculdade e por cursos.
 ## Estatísticas:
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslouret&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolaslouret&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/NikolasLouret">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasLouret&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolasLouret&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/nikolaslouret/nikolaslouret/blob/output/github-contribution-grid-snake.svg)
