@@ -1,4 +1,4 @@
-# Olá, eu sou o Nikolas Louret ! 
+# Olá, eu sou o Nikolas Louret! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 Meu nome é Nikolas Louret e tenho 20 anos, moro na região metropolitana de Belo Horizonte/MG, sou estudando do curso de Engenharia de Software da PUC Minas Praça da Liberdade em Belo Horizonte, com previsão de formação em julho de 2025.
@@ -12,6 +12,7 @@ Meu nome é Nikolas Louret e tenho 20 anos, moro na região metropolitana de Bel
 ## Contatos:
 
 <div>
+  <a href="https://www.nikolaslouret.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://instagram.com/nikolaslouret" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nikolasalouret@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nikolaslouret" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
