@@ -1,28 +1,74 @@
-# Olá, eu sou o Nikolas Louret! 
-## Bem vindo ao meu perfil GitHub 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-Meu nome é Nikolas Louret e tenho 20 anos, moro na região metropolitana de Belo Horizonte/MG, sou estudando do curso de Engenharia de Software da PUC Minas Praça da Liberdade em Belo Horizonte, com previsão de formação em julho de 2025.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Nikolas+Louret;Desenvolvedor+Full-Stack;Seja+bem+vindo!+)](https://git.io/typing-svg)
 
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<div align="center"> 
+<a href = "mailto:nikolasalouret@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nikolaslouret/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.nikolaslouret.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius: 10px"></a>
+<a href="https://api.whatsapp.com/send?phone=5531999532003" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 30px"></a>
+ </div>
+ <br>
 
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+</p>
+<br>
 
-## Contatos:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NikolasLouret&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Dias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasLouret&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+<br>
 
-<div>
-  <a href="https://www.nikolaslouret.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://instagram.com/nikolaslouret" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nikolasalouret@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nikolaslouret" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5531999532003" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+### Tecnologias:
+
+#### Front End
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,typescript,materialui, tailwind" />
+</div>
+<br/>
+
+#### Back End
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,typescript,express,sequelize,java" />
+</div>
+<br/>
+<br/>
+
+### Ferramentas:
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,git,idea,vercel,vite,postman" />
+</div>
+<br/><br/>
+
+### Estudando neste momento:
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,cs,spring,selenium,rabbitmq" />
+</div>
+<br><br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikolasLouret&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NikolasLouret}/count.svg" /></p> 
+<br>
+</div>
+<br>
+
+<div align="center">
+  <h2>Minhas contribuições</h2>
+  <br>
+  <!-- https://raw.githubusercontent.com/NikolasLouret/<repository>/<target_branch>/<file> -->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NikolasLouret/NikolasLouret/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
-## Estatísticas:
-
-<div>
-  <a href="https://github.com/NikolasLouret">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasLouret&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolasLouret&show_icons=truee&theme=dracula" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
