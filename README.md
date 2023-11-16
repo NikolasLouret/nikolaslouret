@@ -26,7 +26,7 @@
 #### Front End
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,typescript,materialui, tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,typescript,materialui,tailwind" />
 </div>
 <br/>
 
