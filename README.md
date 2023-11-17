@@ -48,7 +48,7 @@
 ### Estudando neste momento:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,cs,spring,selenium,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=docker,cs,spring,selenium,rabbitmq,angular" />
 </div>
 <br><br/>
 
